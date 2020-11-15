@@ -1,8 +1,9 @@
 # To create the package structure
 
 1. Install R, RTools and RCpp with all dependencies.
-1. From the project menu, click in *New Project*, *R Package using Rcpp*.
-1. Check that build tools are accesible from the Build Tab.
+1. From the project menu, click in *New Project*. Let it be a Blank project.
+1. Clone this repo into the project.
+1. Add version control.
 
 # C++ Settings
 
