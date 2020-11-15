@@ -14,7 +14,7 @@
 - Check that Roxygen Generates the NAMESPACE
 - This is a modified version of `rcpp.package.skeleton`.
 
-# Types for documentation
+# Tips for documentation
 
 - Comment in the CPP files. Comments will be transported to the .R files, and then to the Md files.
 - Comment the interface using roxygen. Use normal comments for very specific details.
